@@ -1,0 +1,18 @@
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.exe.config
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.exe
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.pdb
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment_5B.Form1.resources
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment_5B.Properties.Resources.resources
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.csproj.GenerateResource.Cache
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.exe
+C:\Users\24210285\Desktop\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.exe.config
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.exe
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.exe
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\bin\Debug\Assessment 5B.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment_5B.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment 5B.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment 5B-20170927T013856Z-001\Assessment 5B\Assessment 5B\obj\Debug\Assessment_5B.SpeedAndDistanceCalculatorForm.resources
